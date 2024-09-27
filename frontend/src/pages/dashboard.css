@@ -1,0 +1,139 @@
+:root {
+  --color-primary: #e2e8f0;
+  --color-secondary: #d1d5db;
+  --font-color-primary: #1e293b;
+  --font-color-secondary: #64748b;
+  --font-color-highlight: #e2e8f0;
+  --font-color-anchor: #94a3b8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-height: 100vh;
+  padding: 20px;
+  padding-left: 30px;
+  gap: 20px;
+  background-color: #0f172a;
+}
+
+.header {
+  display: flex;
+  color: #ffffff;
+  text-align: left;
+  justify-content: space-between;
+}
+
+.h1-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 10px;
+}
+
+.h1-header img {
+  width: 150px;
+}
+
+h2 {
+  color: var(--font-color-secondary);
+  margin-left: 5px;
+  font-size: 15px;
+}
+
+.mod-logo:hover {
+  opacity: 50%;
+  transition-duration: 200ms;
+}
+
+.body {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  flex-grow: 1;
+  height: 50%;
+  max-height: 50%;
+  overflow: auto;
+}
+
+.sidebar-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  background-color: var(--color-secondary);
+  border-radius: 8px;
+}
+
+.date-range-picker {
+  background-color: var(--color-secondary);
+  color: #94a3b8;
+}
+
+.tabnav-container {
+  flex: 6;
+  background-color: var(--color-secondary);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.tabnav {
+  width: 100%;
+  background-color: var(--color-secondary);
+  border-radius: 8px;
+}
+
+.tabnav ol li {
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
+}
+
+.tabnav ol li div {
+  background-color: var(--color-secondary);
+  text-decoration: none;
+}
+
+.tabnav ol li div:hover {
+  background-color: var(--color-secondary);
+  color: var(--font-color-highlight);
+  font-weight: 600;
+  transition-duration: 200ms;
+}
+
+.tabnav ol li div a {
+  text-decoration: none;
+  color: var(--font-color-primary);
+}
+
+.footer p {
+  color: var(--font-color-secondary);
+  font-size: 12px;
+}
+
+.anchor-text,
+.highlight {
+  color: var(--font-color-anchor);
+  text-decoration: none;
+  transition-duration: 200ms;
+}
+
+.anchor-text:hover {
+  color: var(--font-color-highlight);
+  font-weight: 600;
+}
+
+.tab-content {
+  flex-grow: 1;
+  overflow: auto;
+}

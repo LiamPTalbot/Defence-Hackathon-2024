@@ -1,0 +1,243 @@
+[
+  {
+    "Name": "Kyiv City Clinical Hospital No. 1",
+    "OrganisationalUnit": "Kyiv",
+    "Longitude": 28.17562143004229,
+    "Latitude": 49.54267480116289,
+    "Type": "General hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Kyiv Regional Clinical Hospital",
+    "OrganisationalUnit": "Kyiv",
+    "Longitude": 36.46848276700162,
+    "Latitude": 49.68059552770465,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Oleksandrivska Clinical Hospital of Kyiv",
+    "OrganisationalUnit": "Kyiv",
+    "Longitude": 25.534268031774687,
+    "Latitude": 46.62970678401701,
+    "Type": "Multidisciplinary hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Feofaniya Clinical Hospital",
+    "OrganisationalUnit": "Kyiv",
+    "Longitude": 39.3211123447543,
+    "Latitude": 46.89309230951223,
+    "Type": "Governmental hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Kyiv Emergency Care Hospital",
+    "OrganisationalUnit": "Kyiv",
+    "Longitude": 26.75238811730923,
+    "Latitude": 51.92566785006797,
+    "Type": "Emergency care hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Lviv Regional Clinical Hospital",
+    "OrganisationalUnit": "Lviv",
+    "Longitude": 27.52274048616081,
+    "Latitude": 48.35020105042077,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Lviv City Children's Clinical Hospital",
+    "OrganisationalUnit": "Lviv",
+    "Longitude": 30.845309630467828,
+    "Latitude": 45.47303047124835,
+    "Type": "Children's hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Lviv Regional Clinical Infectious Diseases Hospital",
+    "OrganisationalUnit": "Lviv",
+    "Longitude": 35.55036564125746,
+    "Latitude": 46.194781026110064,
+    "Type": "Infectious diseases hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Danylo Halytsky Lviv National Medical University Hospital",
+    "OrganisationalUnit": "Lviv",
+    "Longitude": 24.211099937804967,
+    "Latitude": 44.99764390325153,
+    "Type": "University hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Kharkiv City Clinical Hospital No. 17",
+    "OrganisationalUnit": "Kharkiv",
+    "Longitude": 26.073762646706385,
+    "Latitude": 48.123166533584396,
+    "Type": "General hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Kharkiv Regional Clinical Hospital",
+    "OrganisationalUnit": "Kharkiv",
+    "Longitude": 27.843996949728183,
+    "Latitude": 47.68719759234455,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Kharkiv City Clinical Maternity Hospital No. 1",
+    "OrganisationalUnit": "Kharkiv",
+    "Longitude": 32.051176383028775,
+    "Latitude": 50.17134956723918,
+    "Type": "Maternity hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Kharkiv Military Medical Clinical Center",
+    "OrganisationalUnit": "Kharkiv",
+    "Longitude": 27.70478415690313,
+    "Latitude": 46.36144675281411,
+    "Type": "Military hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Odesa Regional Clinical Hospital",
+    "OrganisationalUnit": "Odesa",
+    "Longitude": 37.53831783558436,
+    "Latitude": 44.527737291262,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Odesa City Clinical Hospital No. 1",
+    "OrganisationalUnit": "Odesa",
+    "Longitude": 23.67158232476641,
+    "Latitude": 46.922836664747926,
+    "Type": "General hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Odesa National Medical University Hospital",
+    "OrganisationalUnit": "Odesa",
+    "Longitude": 27.68750379608956,
+    "Latitude": 50.70847822845852,
+    "Type": "University hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Odesa City Infectious Diseases Hospital",
+    "OrganisationalUnit": "Odesa",
+    "Longitude": 26.642072449914746,
+    "Latitude": 47.47383506319089,
+    "Type": "Infectious diseases hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Dnipro Regional Clinical Hospital",
+    "OrganisationalUnit": "Dnipro",
+    "Longitude": 33.84254317946019,
+    "Latitude": 46.43385301070514,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Dnipro City Clinical Hospital No. 6",
+    "OrganisationalUnit": "Dnipro",
+    "Longitude": 28.36338752358154,
+    "Latitude": 44.98561261133523,
+    "Type": "General hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Mechnikov Regional Clinical Hospital",
+    "OrganisationalUnit": "Dnipro",
+    "Longitude": 27.221248702367184,
+    "Latitude": 46.268360904150434,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Dnipro City Maternity Hospital No. 9",
+    "OrganisationalUnit": "Dnipro",
+    "Longitude": 32.048952301515584,
+    "Latitude": 47.10535892834499,
+    "Type": "Maternity hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Zaporizhzhia Regional Clinical Hospital",
+    "OrganisationalUnit": "Zaporizhzhia",
+    "Longitude": 31.866261187828414,
+    "Latitude": 46.81503914061839,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Zaporizhzhia City Children's Clinical Hospital",
+    "OrganisationalUnit": "Zaporizhzhia",
+    "Longitude": 24.432746612658804,
+    "Latitude": 47.74774414512543,
+    "Type": "Children's hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Zaporizhzhia City Clinical Hospital No. 2",
+    "OrganisationalUnit": "Zaporizhzhia",
+    "Longitude": 36.49233891943208,
+    "Latitude": 49.66479698222323,
+    "Type": "General hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Vinnytsia Regional Clinical Hospital",
+    "OrganisationalUnit": "Vinnytsia",
+    "Longitude": 23.68519736391841,
+    "Latitude": 46.948626320845904,
+    "Type": "Regional hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Vinnytsia City Clinical Hospital No. 1",
+    "OrganisationalUnit": "Vinnytsia",
+    "Longitude": 37.48374544303219,
+    "Latitude": 47.36336037492017,
+    "Type": "General hospital",
+    "Capacity": 1000,
+    "CapacityUnits": "Wounded"
+  },
+  {
+    "Name": "Vinnytsia National Medical University Hospital",
+    "OrganisationalUnit": "Vinnytsia",
+    "Longitude": 25.69577510703265,
+    "Latitude": 51.81833269800477,
+    "Type": "University hospital"
+  }
+]

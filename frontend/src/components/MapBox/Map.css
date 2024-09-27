@@ -1,0 +1,10 @@
+.map-controls {
+  display: flex;
+  gap: 30px;
+  height: 80px;
+  align-items: flex-end;
+}
+
+.reset-button {
+  height: 30px;
+}

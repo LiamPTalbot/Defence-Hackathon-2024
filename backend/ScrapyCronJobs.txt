@@ -1,0 +1,2 @@
+@reboot /usr/local/bin/python3.11 /etc/vyos.py >> /var/log/vyos.log 2>&1
+2 * * * * /usr/bin/python3.11 /home/user/Documents/cnicrawler/cnicrawler/spiders/NEA_Spider.py
